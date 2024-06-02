@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.light-mode{
+  background-color: rgb(245, 229, 229);
+  color: black;
+
+}
+.icon{
+  cursor: pointer;
+}
+.dark-mode{
+  background-color: black;
+  color: white;
+  
+}
